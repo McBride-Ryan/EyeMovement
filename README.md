@@ -10,7 +10,7 @@ None.
 Open it up in the browser and have fun! 
 
 ### Support
-twitter.com/RYANMcBRlDE
+twitter.com/RYANMcBR1DE
 
 ### Roadmap
 Ultimately I would love to apply some more event listeners. Perhaps if someone were to use the arrow keys the eyes could adapt.  
